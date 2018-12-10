@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/aerialphoto_mosaic_tool" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
